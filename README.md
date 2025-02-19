@@ -1,5 +1,5 @@
 ![logo](https://github.com/ahmedoli/ahmedoli/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
-<h1 align="center">Hello World 👋, I'm i am OLI</h1>
+<h1 align="center">Hello World 👋, I'm OLI</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="coding" width="400">
