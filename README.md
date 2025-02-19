@@ -1,3 +1,4 @@
+![logo](https://github.com/ahmedoli/ahmedoli/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hello World 👋, I'm i am OLI</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
@@ -18,7 +19,7 @@
 <a href="https://linkedin.com/in/jannatul-ferdues-kely-b4b590310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannatul-ferdues-kely-b4b590310" height="30" width="40" /></a>
 <a href="https://fb.com/oli.ahmed.09s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oli.ahmed.09s" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammad_oli_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_oli_10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/oli_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oli_ahmed" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Oliahmed_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oli_ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
